@@ -39,5 +39,9 @@ and `Enhanced`.
     two approaches?
 
 ## Guidelines
+* You can send us your solution in an email attachment. Alternatively, you can 
+create a new repo with your Github account and send us the link. 
+**Please use a different repo name and do not fork this one.**
+
 * Please do not perform any stress or load testing against our production
 platform.
